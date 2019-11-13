@@ -1,15 +1,6 @@
 def square_array(numbers)
+  counter = 1
 numbers = [1,2,3]
 numbers.each do |number|
-  
-
-
-
-new_numbers =
-[9,10,16,25]
-
-square_array(new_numbers)
-
-
-
+  counter += 1
 end

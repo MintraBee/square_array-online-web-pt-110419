@@ -8,6 +8,5 @@ new_numbers =
 square_array(new_numbers)
 
 
-def square_array(array)
-  # your code here
+
 end
